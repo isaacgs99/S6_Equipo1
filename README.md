@@ -5,7 +5,7 @@ Session 6, Icons, Essential Concepts and Touchable.
 * Emilio Popovits Blake (A01027265)
 * Isaac Garza Strimlingas (A01025798)
 * Ernesto Ramirez Godinez (A01019589)
-* Carla Perez Gavilan ()
+* Carla Perez Gavilan (A01023033)
 
 ## Lista de Mejora
 * Poder editar tus propios posts
